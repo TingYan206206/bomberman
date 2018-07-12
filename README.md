@@ -1,2 +1,2 @@
 # bomberman
-a fully playable graphical game, practice event-driven programming and multithreading
+a fully playable graphical game written by Java, practice event-driven programming and multithreading
